@@ -6,12 +6,25 @@
 
 body {
   padding-top: 54px;
+  background-color:#659DBD;
 }
 
 @media (min-width: 992px) {
   body {
     padding-top: 56px;
   }
+}
+
+
+
+.img-fluid rounded {
+	border-radius: 180%;
+	margin-right:auto;
+}
+
+.container {
+	background-color:#659DBD;
+	border-radius: 4%;
 }
 
 .carousel-item {
