@@ -23,8 +23,8 @@ body {
 }
 
 .container {
-	background-color:#659DBD;
-	border-radius: 4%;
+	background-color:grey;
+	border-radius: 4	%;
 }
 
 .carousel-item {
